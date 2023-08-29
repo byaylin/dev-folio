@@ -4,7 +4,7 @@ const data = [
         image_url: "https://user-images.githubusercontent.com/117704967/224256864-5450c5bf-b275-401e-88cd-7cfd7f3643e2.png",
         work_title: "Weather Dashboard",
         url: "https://byaylin.github.io/weather-dashboard/",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        description: "Allows the user to view the current weather as well as the 5 day forecast. Made using CSS framework. Open Weather API was used to obtain weather data based on the city searched by the usesr. ",
         genre: "Design & Dev"
     },
     {
