@@ -12,7 +12,7 @@ const data = [
         image_url: "https://user-images.githubusercontent.com/117704967/263124238-233a3bfb-19a2-4227-be51-3c1db5d32e00.jpg",
         work_title: "Employee Tracker",
         url: "https://github.com/byaylin/employee-tracker",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        description: "This app allows the user to create a company database to store, view and modify information about their company's employees, roles and departments. Made using MySQL and Node.js",
         genre: "Command-line app"
     },
     {
