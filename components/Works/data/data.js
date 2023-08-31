@@ -20,7 +20,7 @@ const data = [
         image_url: "https://user-images.githubusercontent.com/117704967/209288837-4e566321-4e53-45c0-af2f-58e0c758c317.png",
         work_title: "Password Generator",
         url: "https://github.com/byaylin/password-generator",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        description: "This password generator asks for user input on password parameters. Based on the user's answers, a unique password is generated. ",
         genre: "Dev"
     },
 ];
