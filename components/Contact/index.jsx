@@ -16,7 +16,7 @@ const Contact = () => {
             <div className="my-10 grid grid-cols-2 gap-0 lg:grid-cols-5 sm:grid-cols-3 sm:gap-4">
                 <ul>
                     <li className="mb-4 text-gray-300 text-md w-max" title="LinkedIn">
-                        <a href="https://www.linkedin.com/in/aylin-morales" target="_blank"className="flex gap-2 justify-start items-center w-max ease-in-out duration-150 hover:text-teal-500">
+                        <a href="https://www.linkedin.com/in/aylin-morales"className="flex gap-2 justify-start items-center w-max ease-in-out duration-150 hover:text-teal-500">
                             <FaLinkedinIn />
                             <span className="text-sm font-initial">user/aylin-morales</span>
                         </a>
@@ -25,7 +25,7 @@ const Contact = () => {
                 </ul>
                 <ul>
                     <li className="mb-4 text-gray-300 text-md w-max" title="GitHub">
-                        <a href="https://github.com/byaylin" target="_blank" className="flex gap-2 justify-start items-center w-max ease-in-out duration-150 hover:text-teal-500">
+                        <a href="https://github.com/byaylin" className="flex gap-2 justify-start items-center w-max ease-in-out duration-150 hover:text-teal-500">
                             <FaGithub />
                             <span className="text-sm font-initial">/byaylin</span>
                         </a>
